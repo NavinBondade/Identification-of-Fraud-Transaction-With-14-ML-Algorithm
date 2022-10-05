@@ -16,3 +16,8 @@
   <li>BeautifulSoup</li>
   <li>Wordcloud</li>
 </ul>
+<h2>Libraries Used</h2>
+<img src="https://github.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/blob/main/Pictures%20and%20Graphs/Distribution%20of%20Transaction%20Type.png">
+<img src="[https://www.bluefin.com/wp-content/uploads/2020/10/fraudulent-credit-card-transactions.jpg](https://github.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/blob/main/Pictures%20and%20Graphs/Amount%20Histogram.png">
+
+
