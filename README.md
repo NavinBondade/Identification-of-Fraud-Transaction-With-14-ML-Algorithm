@@ -67,15 +67,17 @@ The nu-support vector classifier (Nu-SVC) is similar to the SVC with the only di
 </p> 
 <h3>Linear SVC</h3>
 <p>
+The linear support vector classifier (SVC) method applies a linear kernel function to perform classification and it performs well with a large number of samples. If we compare it with the SVC model, the Linear SVC has additional parameters such as penalty normalization which applies 'L1' or 'L2', and loss function. The kernel method can not be changed in linear SVC, because it is based on the kernel linear method. In the linear support vector machine classifier, we got the test accuracy of 90.04%.   
 </p>  
 <p align="center">  
-<img src="">
+<img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Linear%20Support%20Vector%20CM.png">
 </p> 
 <h3>Passive Aggressive Classifier</h3>
 <p>
+The passive-aggressive classifier is an online-learning algorithm. In online machine learning algorithms, the input data comes in sequential order and the machine learning model is updated step-by-step, as opposed to batch learning, where the entire training dataset is used at once. This is very useful in situations where there is a huge amount of data and it is computationally infeasible to train the entire dataset because of the sheer size of the data. We can simply say that an online-learning algorithm will get a training example, update the classifier, and then throw away the example. In the passive-aggressive classifier, we got the test accuracy of 80.08%.     
 </p>  
 <p align="center">  
-<img src="">
+<img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Passive%20Aggressive%20Classifier%20CM.png">
 </p> 
 <h3>BernoulliNB</h3>
 <p>
