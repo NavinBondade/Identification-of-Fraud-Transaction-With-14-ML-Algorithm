@@ -19,8 +19,9 @@
 <h2>Data Analysis</h2>
 <p align="center"> 
 <img src="https://github.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/blob/main/Pictures%20and%20Graphs/Distribution%20of%20Transaction%20Type.png">
-</p><br>
 
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Amount%20Histogram.png">
+</p><br>
+
 
 
