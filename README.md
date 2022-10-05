@@ -81,18 +81,49 @@ The passive-aggressive classifier is an online-learning algorithm. In online mac
 </p> 
 <h3>BernoulliNB</h3>
 <p>
-
 Bernoulli Naive Bayes is a part of the Naive Bayes family. It is based on the Bernoulli Distribution and accepts only binary values, i.e., 0 or 1. If the features of the dataset are binary, then we can assume that Bernoulli Naive Bayes is the algorithm to be used. In the bernoulli naive bayes , we got the test accuracy of 90.04%.  
 </p>  
 <p align="center">  
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/BernoulliNB%20CM.png">
 </p> 
 <h3>Gradient Boosting Classifier</h3>
+<p>
+Gradient boosting classifiers are a group of machine learning algorithms that combine many weak learning models together to create a strong predictive model. In the gradient boosting classifiers , we got the test accuracy of 90.07%.    
+</p>  
+<p align="center">  
+<img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Gradient%20Boosting%20Classifier.png">
+</p> 
 <h3>Linear Discriminant Analysis</h3>
+<p>
+Linear Discriminant Analysis or Normal Discriminant Analysis or Discriminant Function Analysis is a dimensionality reduction technique that is commonly used for supervised classification problems. It is used for modelling differences in groups i.e. separating two or more classes. It is used to project the features in a higher-dimension space into a lower-dimension space. In the linear discriminant analysis, we got test accuracy of 90.043%.     
+</p>  
+<p align="center">  
+<img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Linear%20Discriminant.png">
+</p> 
 <h3>Bagging Classifier</h3>
+<p>
+</p>  
+<p align="center">  
+<img src="">
+</p> 
 <h3>K-Neighbors Classifier</h3>
+<p>
+</p>  
+<p align="center">  
+<img src="">
+</p> 
 <h3>Naive Bayes</h3>
+<p>
+</p>  
+<p align="center">  
+<img src="">
+</p> 
 <h3>Neural Network</h3>
+<p>
+</p>  
+<p align="center">  
+<img src="">
+</p> 
 
 
 
