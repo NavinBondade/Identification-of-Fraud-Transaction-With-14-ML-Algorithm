@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 <img src="https://www.bluefin.com/wp-content/uploads/2020/10/fraudulent-credit-card-transactions.jpg" width="970" height="520">
-<p> </p>
+<p> Because of the massive rise in the use of digital payment systems for transferring money, the risk of fraud transitions has also increased. Here in this project, I have done extensive research on identifying fraud transactions using machine learning. </p>
 <h2>Libraries Used</h2>
 <ul>
   <li>Tensorflow</li>
