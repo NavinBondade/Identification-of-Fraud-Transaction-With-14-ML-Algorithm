@@ -24,8 +24,10 @@
 <h2>Target Class Distribution</h2>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Distribution%20of%20Target%20Variable.png">
+ </p><br> 
+<p align="center">  
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Distribution%20Of%20Target%20Variable%20In%20Percentage.png">
-</p><br>
+ </p><br> 
 
 
 
