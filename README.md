@@ -29,8 +29,21 @@
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Distribution%20Of%20Target%20Variable%20In%20Percentage.png">
 </p><br> 
 <h2>Machine Learning Algorithms</h2>
+<p>
+A random forest is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. It is basically a set of decision trees from a randomly selected subset of the training set and then It collects the votes from different decision trees to decide the final prediction. In the random forest classifier, we got the test accuracy of 84.150124%.
+</p>  
+<p align="center">  
+<img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Random%20Forest%20Classifier%20CM.png">
 <h3>Random Forest Classifier</h3>
+<p>
+</p>  
+<p align="center">  
+<img src=""
 <h3>Decision Tree Classifier</h3>
+<p>
+</p>  
+<p align="center">  
+<img src=""
 <h3>Extra Tree Classifier</h3>
 <h3>Support Vector Machine</h3>
 <h3>Nu-Support Vector Classification</h3>
