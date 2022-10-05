@@ -32,7 +32,7 @@
 <h2>Machine Learning Algorithms</h2>   
 <h3>Random Forest Classifier</h3>
 <p>
-A random forest is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. It is basically a set of decision trees from a randomly selected subset of the training set and then It collects the votes from different decision trees to decide the final prediction. In the random forest classifier, we got the test accuracy of 84.150124%.
+A random forest classifier is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. It is basically a set of decision trees from a randomly selected subset of the training set and then It collects the votes from different decision trees to decide the final prediction. In the random forest classifier, we got the test accuracy of 84.150124%.
 </p>  
 <p align="center">  
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Random%20Forest%20Classifier%20CM.png">
@@ -46,12 +46,23 @@ The decision tree classifier is a tree-structured classifier, where internal nod
 </p>    
 <h3>Extra Tree Classifier</h3>
 <p>
+The extra tree classifier is a type of ensemble learning technique that aggregates the results of multiple de-correlated decision trees collected in a forest to output its classification result. In concept, it is very similar to a Random Forest Classifier and only differs from it in the manner of construction of the decision trees in the forest. The algorithm works by creating a large number of unpruned decision trees from the training dataset. The predictions are made by using majority voting in the case of classification. In the extra tree classifier, we got the test accuracy of 84.119107%.
+</p>  
+<p align="center">  
+<img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Extra%20Tree%20Classifier%20CM.png">
+</p>    
+<h3>Support Vector Machine</h3>
+<p>
 </p>  
 <p align="center">  
 <img src="">
-</p>    
-<h3>Support Vector Machine</h3>
+</p> 
 <h3>Nu-Support Vector Classification</h3>
+<p>
+</p>  
+<p align="center">  
+<img src="">
+</p> 
 <h3>Linear SVC</h3>
 <h3>Passive Aggressive Classifier</h3>
 <h3>BernoulliNB</h3>
