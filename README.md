@@ -32,35 +32,35 @@
 <h2>Machine Learning Algorithms</h2>   
 <h3>Random Forest Classifier</h3>
 <p>
-A random forest classifier is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. It is basically a set of decision trees from a randomly selected subset of the training set and then It collects the votes from different decision trees to decide the final prediction. In the random forest classifier, we got the test accuracy of 84.150124%.
+A random forest classifier is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. It is basically a set of decision trees from a randomly selected subset of the training set and then It collects the votes from different decision trees to decide the final prediction. In the random forest classifier, we got the test accuracy of 84.15%.
 </p>  
 <p align="center">  
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Random%20Forest%20Classifier%20CM.png">
 </p>    
 <h3>Decision Tree Classifier</h3>
 <p>
-The decision tree classifier is a tree-structured classifier, where internal nodes represent the features of a dataset, branches represent the decision rules and each leaf node represents the outcome. In this algorithm, there are two nodes, which are the decision node and the leaf node. Decision nodes are used to make any decision and have multiple branches, whereas Leaf nodes are the output of those decisions and do not contain any further branches. In the decision tree classifier, we got the test accuracy of 84.150124%. 
+The decision tree classifier is a tree-structured classifier, where internal nodes represent the features of a dataset, branches represent the decision rules and each leaf node represents the outcome. In this algorithm, there are two nodes, which are the decision node and the leaf node. Decision nodes are used to make any decision and have multiple branches, whereas Leaf nodes are the output of those decisions and do not contain any further branches. In the decision tree classifier, we got the test accuracy of 84.15%. 
 </p>  
 <p align="center">  
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Decision%20Tree%20Classifier%20CM.png">
 </p>    
 <h3>Extra Tree Classifier</h3>
 <p>
-The extra tree classifier is a type of ensemble learning technique that aggregates the results of multiple de-correlated decision trees collected in a forest to output its classification result. In concept, it is very similar to a Random Forest Classifier and only differs from it in the manner of construction of the decision trees in the forest. The algorithm works by creating a large number of unpruned decision trees from the training dataset. The predictions are made by using majority voting in the case of classification. In the extra tree classifier, we got the test accuracy of 84.119107%.
+The extra tree classifier is a type of ensemble learning technique that aggregates the results of multiple de-correlated decision trees collected in a forest to output its classification result. In concept, it is very similar to a Random Forest Classifier and only differs from it in the manner of construction of the decision trees in the forest. The algorithm works by creating a large number of unpruned decision trees from the training dataset. The predictions are made by using majority voting in the case of classification. In the extra tree classifier, we got the test accuracy of 84.11%.
 </p>  
 <p align="center">  
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Extra%20Tree%20Classifier%20CM.png">
 </p>    
 <h3>Support Vector Machine</h3>
 <p>
-In the SVM algorithm, we plot each data item as a point in n-dimensional space (where n is the number of features you have) with the value of each feature being the value of a particular coordinate. Then, we perform classification by finding the hyper-plane that differentiates the two classes very well. In the support vector machine classifier, we got the test accuracy of 76.519851%.  
+In the SVM algorithm, we plot each data item as a point in n-dimensional space (where n is the number of features you have) with the value of each feature being the value of a particular coordinate. Then, we perform classification by finding the hyper-plane that differentiates the two classes very well. In the support vector machine classifier, we got the test accuracy of 76.51%.  
 </p>  
 <p align="center">  
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/SVM%20Test%20CM.png">
 </p> 
 <h3>Nu-Support Vector Classification</h3>
 <p>
-The nu-support vector classifier (Nu-SVC) is similar to the SVC with the only difference being that the nu-SVC classifier has a nu parameter to control the number of support vectors. The parameter nu is an upper bound on the fraction of margin errors and a lower bound of the fraction of support vectors relative to the total number of training examples. In the nu support vector machine classifier, we got the test accuracy of 77.574442%.   
+The nu-support vector classifier (Nu-SVC) is similar to the SVC with the only difference being that the nu-SVC classifier has a nu parameter to control the number of support vectors. The parameter nu is an upper bound on the fraction of margin errors and a lower bound of the fraction of support vectors relative to the total number of training examples. In the nu support vector machine classifier, we got the test accuracy of 77.57%.   
 </p>  
 <p align="center">  
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Nu-Support%20Vector%20CM.png">
