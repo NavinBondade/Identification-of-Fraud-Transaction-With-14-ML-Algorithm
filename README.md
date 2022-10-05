@@ -39,9 +39,11 @@ A random forest is a meta estimator that fits a number of decision tree classifi
 </p>    
 <h3>Decision Tree Classifier</h3>
 <p>
+The decision tree classifier is a tree-structured classifier, where internal nodes represent the features of a dataset, branches represent the decision rules and each leaf node represents the outcome. In this algorithm, there are two nodes, which are the decision node and the leaf node. Decision nodes are used to make any decision and have multiple branches, whereas Leaf nodes are the output of those decisions and do not contain any further branches. In the decision tree classifier, we got the test accuracy of 84.150124%. 
 </p>  
 <p align="center">  
-<img src="">
+<img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Decision%20Tree%20Classifier%20CM.png">
+</p>    
 <h3>Extra Tree Classifier</h3>
 <p>
 </p>  
