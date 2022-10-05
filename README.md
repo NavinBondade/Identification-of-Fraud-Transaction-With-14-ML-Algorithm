@@ -81,9 +81,11 @@ The passive-aggressive classifier is an online-learning algorithm. In online mac
 </p> 
 <h3>BernoulliNB</h3>
 <p>
+
+Bernoulli Naive Bayes is a part of the Naive Bayes family. It is based on the Bernoulli Distribution and accepts only binary values, i.e., 0 or 1. If the features of the dataset are binary, then we can assume that Bernoulli Naive Bayes is the algorithm to be used. In the bernoulli naive bayes , we got the test accuracy of 90.04%.  
 </p>  
 <p align="center">  
-<img src="">
+<img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/BernoulliNB%20CM.png">
 </p> 
 <h3>Gradient Boosting Classifier</h3>
 <h3>Linear Discriminant Analysis</h3>
