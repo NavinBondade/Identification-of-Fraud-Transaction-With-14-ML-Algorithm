@@ -53,19 +53,36 @@ The extra tree classifier is a type of ensemble learning technique that aggregat
 </p>    
 <h3>Support Vector Machine</h3>
 <p>
+In the SVM algorithm, we plot each data item as a point in n-dimensional space (where n is the number of features you have) with the value of each feature being the value of a particular coordinate. Then, we perform classification by finding the hyper-plane that differentiates the two classes very well. In the support vector machine classifier, we got the test accuracy of 76.519851%.  
 </p>  
 <p align="center">  
-<img src="">
+<img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/SVM%20Test%20CM.png">
 </p> 
 <h3>Nu-Support Vector Classification</h3>
+<p>
+The nu-support vector classifier (Nu-SVC) is similar to the SVC with the only difference being that the nu-SVC classifier has a nu parameter to control the number of support vectors. The parameter nu is an upper bound on the fraction of margin errors and a lower bound of the fraction of support vectors relative to the total number of training examples. In the nu support vector machine classifier, we got the test accuracy of 77.574442%.   
+</p>  
+<p align="center">  
+<img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Nu-Support%20Vector%20CM.png">
+</p> 
+<h3>Linear SVC</h3>
 <p>
 </p>  
 <p align="center">  
 <img src="">
 </p> 
-<h3>Linear SVC</h3>
 <h3>Passive Aggressive Classifier</h3>
+<p>
+</p>  
+<p align="center">  
+<img src="">
+</p> 
 <h3>BernoulliNB</h3>
+<p>
+</p>  
+<p align="center">  
+<img src="">
+</p> 
 <h3>Gradient Boosting Classifier</h3>
 <h3>Linear Discriminant Analysis</h3>
 <h3>Bagging Classifier</h3>
