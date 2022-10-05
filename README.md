@@ -22,6 +22,7 @@
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Amount%20Histogram.png">
 </p><br>
 <h2>Target Class Distribution</h2>
+<p>Here zero stands for not a fraud transaction and one stands for a fraud transaction.</p>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Distribution%20of%20Target%20Variable.png">
 </p><br> 
