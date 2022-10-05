@@ -24,10 +24,29 @@
 <h2>Target Class Distribution</h2>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Distribution%20of%20Target%20Variable.png">
- </p><br> 
+</p><br> 
 <p align="center">  
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Distribution%20Of%20Target%20Variable%20In%20Percentage.png">
- </p><br> 
+</p><br> 
+<h2>Machine Learning Algorithms</h2>
+<h3>Random Forest Classifier</h3>
+<h3>Decision Tree Classifier</h3>
+<h3>Extra Tree Classifier</h3>
+<h3>Support Vector Machine</h3>
+<h3>Nu-Support Vector Classification</h3>
+<h3>Linear SVC</h3>
+<h3>Passive Aggressive Classifier</h3>
+<h3>BernoulliNB</h3>
+<h3>Gradient Boosting Classifier</h3>
+<h3>Linear Discriminant Analysis</h3>
+<h3>Bagging Classifier</h3>
+<h3>K-Neighbors Classifier</h3>
+<h3>Naive Bayes</h3>
+<h3>Neural Network</h3>
+
+
+
+
 
 
 
