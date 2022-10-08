@@ -128,6 +128,13 @@ A neural network is a series of algorithms that endeavors to recognize underlyin
 <p align="center">  
 <img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Deep%20Learning%20CM.png">
 </p> 
+<h2>Analyzing The Different Methodologies</h2>
+<p>In my research, I have found that the Linear SVC, BernoulliNB, Ada Boost Classifier and Gradient Boost Classifier algorithm has gained the highest accuracy.</p>
+<p align="center">  
+<img src="https://raw.githubusercontent.com/NavinBondade/Identification-of-Fraud-Transaction-With-9-ML-Algorithm/main/Pictures%20and%20Graphs/Comparison%20of%20methods.png">
+</p> 
+<h2>Conclusion</h2>
+<p>In this project, I have worked on fraud transaction identification using fourteen machine learning algorithms. The Linear SVC algorithm has achieved the highest accuracy, i.e. 90.04% in my experiments.<p>
 
 
 
